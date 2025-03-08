@@ -14,7 +14,7 @@ Skills Gained: Image processing, deep learning, object segmentation
 
 2. 🔄 IMU Sensor Integration for Blender Object Rotation
 
-Description: Integrated an IMU sensor with Arduino to control object rotation in Blender in real time, bridging the gap between hardware and 3D modeling.
+Description: Integrated an IMU sensor with Arduino to control object rotation in Blender in real time, bridging the gap between hardware and 3D modeling. I was responsible for getting the data from the sensor through the Blender API applying data cleaning techniques.
 
 Technologies: Arduino, Python, Blender API, IMU Sensors
 
