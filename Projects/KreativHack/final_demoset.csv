@@ -1,0 +1,125 @@
+name_monument,city,wheelchair_accesability,wiki_lang,found,match_title,url,method,note,pageid,rarity
+Rijksmuseum,Amsterdam,True,en,True,Rijksmuseum,https://en.wikipedia.org/wiki/Rijksmuseum,title,exact,26230.0,Common
+Vondelpark,Amsterdam,True,en,True,Vondelpark,https://en.wikipedia.org/wiki/Vondelpark,title,exact,3231819.0,Common
+Dam Square,Amsterdam,True,en,True,Dam Square,https://en.wikipedia.org/wiki/Dam_Square,title,exact,638647.0,Common
+Madame Tussauds Amsterdam,Amsterdam,True,en,True,Madame Tussauds Amsterdam,https://en.wikipedia.org/wiki/Madame_Tussauds_Amsterdam,title,exact,54151602.0,Common
+Moco Museum,Amsterdam,False,en,True,Moco Museum,https://en.wikipedia.org/wiki/Moco_Museum,title,exact,58429667.0,Common
+Stedelijk Museum Amsterdam,Amsterdam,True,en,True,Stedelijk Museum Amsterdam,https://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam,title,exact,931845.0,Common
+Rembrandt House Museum,Amsterdam,True,en,True,Rembrandt House Museum,https://en.wikipedia.org/wiki/Rembrandt_House_Museum,title,exact,1829749.0,Common
+National Maritime Museum,Amsterdam,True,en,True,National Maritime Museum,https://en.wikipedia.org/wiki/National_Maritime_Museum,title,exact,333753.0,Common
+Ripley's Believe It or Not!,Amsterdam,True,en,True,Ripley's Believe It or Not!,https://en.wikipedia.org/wiki/Ripley%27s_Believe_It_or_Not!,title,exact,468458.0,Common
+Skinny Bridge,Amsterdam,True,en,True,Magere Brug,https://en.wikipedia.org/wiki/Magere_Brug,title,exact,5685753.0,Common
+Amsterdam Museum,Amsterdam,True,en,True,Amsterdam Museum,https://en.wikipedia.org/wiki/Amsterdam_Museum,title,exact,5087293.0,Common
+Micropia,Amsterdam,True,en,True,Micropia,https://en.wikipedia.org/wiki/Micropia,title,exact,18537753.0,Common
+Sarphatipark,Amsterdam,True,en,True,Sarphatipark,https://en.wikipedia.org/wiki/Sarphatipark,title,exact,18493018.0,Common
+Wereldmuseum Amsterdam,Amsterdam,True,en,True,Wereldmuseum Amsterdam,https://en.wikipedia.org/wiki/Wereldmuseum_Amsterdam,title,exact,7148085.0,Common
+Rembrandtpark,Amsterdam,True,en,True,Rembrandtpark,https://en.wikipedia.org/wiki/Rembrandtpark,title,exact,65762246.0,Common
+Foam,Amsterdam,False,en,True,Foam,https://en.wikipedia.org/wiki/Foam,title,exact,268420.0,Common
+Beatrixpark,Amsterdam,True,en,True,Beatrixpark,https://en.wikipedia.org/wiki/Beatrixpark,title,exact,77713333.0,Rare
+Amsterdam Tulip Museum,Amsterdam,False,en,True,Amsterdam Tulip Museum,https://en.wikipedia.org/wiki/Amsterdam_Tulip_Museum,title,exact,72301514.0,Rare
+Museum Van Loon,Amsterdam,False,en,True,Museum Van Loon,https://en.wikipedia.org/wiki/Museum_Van_Loon,title,exact,20037766.0,Rare
+Homomonument,Amsterdam,True,en,True,Homomonument,https://en.wikipedia.org/wiki/Homomonument,title,exact,638169.0,Rare
+"Huis Marseille, Museum for Photography",Amsterdam,False,en,True,"Huis Marseille, Museum for Photography","https://en.wikipedia.org/wiki/Huis_Marseille,_Museum_for_Photography",title,exact,44889771.0,Rare
+Kuğulu Park,Ankara,True,en,True,Kuğulu Park,https://en.wikipedia.org/wiki/Ku%C4%9Fulu_Park,title,exact,39589877.0,Common
+Museum of Anatolian Civilizations,Ankara,True,en,True,Museum of Anatolian Civilizations,https://en.wikipedia.org/wiki/Museum_of_Anatolian_Civilizations,title,exact,4344879.0,Common
+METU Science and Technology Museum,Ankara,True,en,True,METU Science and Technology Museum,https://en.wikipedia.org/wiki/METU_Science_and_Technology_Museum,title,exact,32018007.0,Rare
+Feza Gürsey Science Centre,Ankara,True,en,True,Feza Gürsey Science Center,https://en.wikipedia.org/wiki/Feza_G%C3%BCrsey_Science_Center,title,exact,30734088.0,Rare
+Ankara Vakıf Museum,Ankara,True,en,True,Ankara Vakıf Museum,https://en.wikipedia.org/wiki/Ankara_Vak%C4%B1f_Museum,title,exact,57936661.0,Rare
+Mounted Ataturk Monument,Ankara,True,en,True,Mounted Atatürk Monument (Kayseri),https://en.wikipedia.org/wiki/Mounted_Atat%C3%BCrk_Monument_(Kayseri),title,exact,72141576.0,Legendary
+Grigore Antipa National Museum of Natural History,Bucharest,True,en,True,Grigore Antipa National Museum of Natural History,https://en.wikipedia.org/wiki/Grigore_Antipa_National_Museum_of_Natural_History,title,exact,40073824.0,Common
+National Museum of Romanian History,Bucharest,True,en,True,National History Museum of Romania,https://en.wikipedia.org/wiki/National_History_Museum_of_Romania,title,exact,3201736.0,Common
+Memorial of Rebirth,Bucharest,True,en,True,Memorial of Rebirth,https://en.wikipedia.org/wiki/Memorial_of_Rebirth,title,exact,3141026.0,Common
+Museum of Art Collections,Bucharest,True,en,True,Museum of Art Collections,https://en.wikipedia.org/wiki/Museum_of_Art_Collections,title,exact,3201895.0,Common
+National Museum of Romanian Literature,Bucharest,False,en,True,National Museum of Romanian Literature,https://en.wikipedia.org/wiki/National_Museum_of_Romanian_Literature,title,exact,27403423.0,Common
+Dimitrie Leonida Technical Museum,Bucharest,True,en,True,Dimitrie Leonida Technical Museum,https://en.wikipedia.org/wiki/Dimitrie_Leonida_Technical_Museum,title,exact,10224272.0,Common
+Lupa Capitolina,Bucharest,True,en,True,Capitoline Wolf,https://en.wikipedia.org/wiki/Capitoline_Wolf,title,exact,4875665.0,Common
+Piața Victoriei,Bucharest,True,en,True,"Victory Square, Bucharest","https://en.wikipedia.org/wiki/Victory_Square,_Bucharest",title,exact,10308807.0,Rare
+Holocaust Memorial,Bucharest,False,en,True,List of Holocaust memorials and museums,https://en.wikipedia.org/wiki/List_of_Holocaust_memorials_and_museums,title,exact,152442.0,Rare
+Heroes' Square,Budapest,True,en,True,Heroes' Square (Budapest),https://en.wikipedia.org/wiki/Heroes%27_Square_(Budapest),title,exact,2613261.0,Common
+Buda Castle,Budapest,True,en,True,Buda Castle,https://en.wikipedia.org/wiki/Buda_Castle,title,exact,2994351.0,Common
+Shoes on the Danube Bank,Budapest,True,en,True,Shoes on the Danube Bank,https://en.wikipedia.org/wiki/Shoes_on_the_Danube_Bank,title,exact,9052076.0,Common
+Vajdahunyad Castle,Budapest,True,en,True,Vajdahunyad Castle,https://en.wikipedia.org/wiki/Vajdahunyad_Castle,title,exact,2254072.0,Common
+Liberty Square,Budapest,True,en,True,Liberty Square (Budapest),https://en.wikipedia.org/wiki/Liberty_Square_(Budapest),title,exact,39679657.0,Common
+Erzsébet Bridge,Budapest,True,en,True,Elisabeth Bridge (Budapest),https://en.wikipedia.org/wiki/Elisabeth_Bridge_(Budapest),title,exact,2030595.0,Common
+Hungarian National Museum,Budapest,True,en,True,Hungarian National Museum,https://en.wikipedia.org/wiki/Hungarian_National_Museum,title,exact,7799944.0,Common
+Bikás park,Budapest,True,en,True,Bikás park metro station,https://en.wikipedia.org/wiki/Bik%C3%A1s_park_metro_station,title,exact,41308389.0,Common
+Hungarian Railway Museum,Budapest,True,en,True,Hungarian Railway History Park,https://en.wikipedia.org/wiki/Hungarian_Railway_History_Park,title,exact,26736901.0,Common
+Hungarian National Gallery,Budapest,True,en,True,Hungarian National Gallery,https://en.wikipedia.org/wiki/Hungarian_National_Gallery,title,exact,7645878.0,Common
+Hungarian Natural History Museum,Budapest,True,en,True,Hungarian Natural History Museum,https://en.wikipedia.org/wiki/Hungarian_Natural_History_Museum,title,exact,12058019.0,Common
+Labyrinth,Budapest,False,en,True,Labyrinth,https://en.wikipedia.org/wiki/Labyrinth,title,exact,18245.0,Common
+Museum of Illusions,Budapest,True,en,True,Museum of Illusions,https://en.wikipedia.org/wiki/Museum_of_Illusions,title,exact,77204688.0,Common
+Museum of Ethnography,Budapest,True,en,True,List of ethnographic museums,https://en.wikipedia.org/wiki/List_of_ethnographic_museums,title,exact,37848187.0,Common
+Memento Park,Budapest,True,en,True,Memento Park,https://en.wikipedia.org/wiki/Memento_Park,title,exact,21476601.0,Common
+Little Princess Statue,Budapest,True,en,True,Little Princess statue,https://en.wikipedia.org/wiki/Little_Princess_statue,title,exact,38595315.0,Common
+The Policeman,Budapest,True,en,True,The Policeman,https://en.wikipedia.org/wiki/The_Policeman,title,exact,9709159.0,Rare
+Police Museum,Budapest,True,en,True,List of police museums,https://en.wikipedia.org/wiki/List_of_police_museums,title,exact,8830395.0,Rare
+Louvre Museum,Paris,True,en,True,Louvre,https://en.wikipedia.org/wiki/Louvre,title,exact,17546.0,Common
+Panthéon,Paris,True,en,True,Panthéon,https://en.wikipedia.org/wiki/Panth%C3%A9on,title,exact,62069.0,Common
+The Centre Pompidou,Paris,True,en,True,Centre Pompidou,https://en.wikipedia.org/wiki/Centre_Pompidou,title,exact,53889.0,Common
+Hôtel des Invalides,Paris,True,en,True,Les Invalides,https://en.wikipedia.org/wiki/Les_Invalides,title,exact,62633.0,Common
+Musée Grévin,Paris,True,en,True,Musée Grévin,https://en.wikipedia.org/wiki/Mus%C3%A9e_Gr%C3%A9vin,title,exact,1980771.0,Common
+Musée du quai Branly - Jacques Chirac,Paris,True,en,True,Musée du Quai Branly – Jacques Chirac,https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac,title,exact,5455300.0,Common
+Jardin d'Acclimatation,Paris,True,en,True,Jardin d'Acclimatation,https://en.wikipedia.org/wiki/Jardin_d%27Acclimatation,title,exact,2865030.0,Common
+Château de Vincennes,Paris,True,en,True,Château de Vincennes,https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes,title,exact,495441.0,Common
+Palais de Tokyo,Paris,True,en,True,Palais de Tokyo,https://en.wikipedia.org/wiki/Palais_de_Tokyo,title,exact,3648981.0,Common
+Musée Marmottan Monet,Paris,True,en,True,Musée Marmottan Monet,https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet,title,exact,2113447.0,Common
+Musée des Arts et Métiers,Paris,False,en,True,Musée des Arts et Métiers,https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers,title,exact,434500.0,Common
+Musée d'Art Moderne de Paris,Paris,True,en,True,Musée d'Art Moderne de Paris,https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_Moderne_de_Paris,title,exact,15614518.0,Common
+National Museum of Natural History,Paris,True,en,True,National Museum of Natural History,https://en.wikipedia.org/wiki/National_Museum_of_Natural_History,title,exact,700610.0,Common
+Palais de Chaillot,Paris,True,en,True,Palais de Chaillot,https://en.wikipedia.org/wiki/Palais_de_Chaillot,title,exact,2811529.0,Common
+Musée de l'Homme,Paris,True,en,True,Musée de l'Homme,https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Homme,title,exact,5208681.0,Common
+Tour Saint-Jacques,Paris,False,en,True,Tour Saint-Jacques,https://en.wikipedia.org/wiki/Tour_Saint-Jacques,title,exact,893514.0,Common
+Musée Maillol,Paris,True,en,True,Musée Maillol,https://en.wikipedia.org/wiki/Mus%C3%A9e_Maillol,title,exact,18144423.0,Common
+Maison de Victor Hugo,Paris,True,en,True,Maison de Victor Hugo,https://en.wikipedia.org/wiki/Maison_de_Victor_Hugo,title,exact,15178676.0,Common
+Palais de la Porte Dorée,Paris,True,en,True,Palais de la Porte Dorée,https://en.wikipedia.org/wiki/Palais_de_la_Porte_Dor%C3%A9e,title,exact,17470851.0,Common
+Musée de Montmartre,Paris,True,en,True,Musée de Montmartre,https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Montmartre,title,exact,18604595.0,Rare
+Colonne Vendôme,Paris,True,en,True,Place Vendôme,https://en.wikipedia.org/wiki/Place_Vend%C3%B4me,title,exact,733455.0,Rare
+Bourdelle Museum,Paris,True,en,True,Musée Bourdelle,https://en.wikipedia.org/wiki/Mus%C3%A9e_Bourdelle,title,exact,17824163.0,Rare
+Musée Cernuschi,Paris,True,en,True,Musée Cernuschi,https://en.wikipedia.org/wiki/Mus%C3%A9e_Cernuschi,title,exact,16035330.0,Rare
+Gallery of Mineralogy and Geology,Paris,True,en,True,Gallery of Mineralogy and Geology,https://en.wikipedia.org/wiki/Gallery_of_Mineralogy_and_Geology,title,exact,12200470.0,Rare
+Musée Cognacq-Jay,Paris,False,en,True,Musée Cognacq-Jay,https://en.wikipedia.org/wiki/Mus%C3%A9e_Cognacq-Jay,title,exact,18284543.0,Rare
+Vyšehrad,Prague,True,en,True,Vyšehrad,https://en.wikipedia.org/wiki/Vy%C5%A1ehrad,title,exact,831652.0,Common
+National Museum,Prague,True,en,True,List of national museums,https://en.wikipedia.org/wiki/List_of_national_museums,title,exact,4578860.0,Common
+Lennon Wall,Prague,True,en,True,Lennon Wall,https://en.wikipedia.org/wiki/Lennon_Wall,title,exact,18109.0,Common
+Letna Park,Prague,True,en,True,Letná Park,https://en.wikipedia.org/wiki/Letn%C3%A1_Park,title,exact,6736089.0,Common
+Sex Machines Museum,Prague,False,en,True,Sex Machines Museum,https://en.wikipedia.org/wiki/Sex_Machines_Museum,title,exact,25945308.0,Common
+Kampa Park,Prague,True,en,True,Kampa Park,https://en.wikipedia.org/wiki/Kampa_Park,title,exact,51318330.0,Common
+Kafka Museum,Prague,True,en,True,Franz Kafka Museum,https://en.wikipedia.org/wiki/Franz_Kafka_Museum,title,exact,53708147.0,Common
+Lobkowicz Palace,Prague,True,en,True,Lobkowicz Palace,https://en.wikipedia.org/wiki/Lobkowicz_Palace,title,exact,25661987.0,Common
+Museum Kampa,Prague,True,en,True,Museum Kampa,https://en.wikipedia.org/wiki/Museum_Kampa,title,exact,20292277.0,Common
+Speculum Alchemiae,Prague,False,en,True,The Mirror of Alchimy,https://en.wikipedia.org/wiki/The_Mirror_of_Alchimy,title,exact,41103154.0,Common
+Statue of Franz Kafka,Prague,True,en,True,Statue of Franz Kafka,https://en.wikipedia.org/wiki/Statue_of_Franz_Kafka,title,exact,50923824.0,Common
+Museum of Decorative Arts in Prague,Prague,True,en,True,Museum of Decorative Arts in Prague,https://en.wikipedia.org/wiki/Museum_of_Decorative_Arts_in_Prague,title,exact,23548614.0,Rare
+Náměstí Republiky,Prague,True,en,True,"Náměstí Republiky, Prague","https://en.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Republiky,_Prague",title,exact,47241723.0,Rare
+Vatican Museums,Rome,True,en,True,Vatican Museums,https://en.wikipedia.org/wiki/Vatican_Museums,title,exact,229765.0,Common
+Villa Borghese,Rome,False,en,True,Villa Borghese gardens,https://en.wikipedia.org/wiki/Villa_Borghese_gardens,title,exact,846869.0,Common
+Janiculum Hill,Rome,True,en,True,Janiculum,https://en.wikipedia.org/wiki/Janiculum,title,exact,743552.0,Common
+Capitoline Museums,Rome,True,en,True,Capitoline Museums,https://en.wikipedia.org/wiki/Capitoline_Museums,title,exact,2388402.0,Common
+Trajan's Column,Rome,True,en,True,Trajan's Column,https://en.wikipedia.org/wiki/Trajan%27s_Column,title,exact,273249.0,Common
+Jewish Museum,Rome,True,en,True,List of Jewish museums,https://en.wikipedia.org/wiki/List_of_Jewish_museums,title,exact,874806.0,Common
+Museo Civico di Zoologia,Rome,True,en,True,Museo Civico di Zoologia,https://en.wikipedia.org/wiki/Museo_Civico_di_Zoologia,title,exact,12115081.0,Common
+Fontana del Pantheon,Rome,True,en,True,Fontana del Pantheon,https://en.wikipedia.org/wiki/Fontana_del_Pantheon,title,exact,8935180.0,Common
+Cordonata Capitolina,Rome,False,en,True,Capitoline Hill,https://en.wikipedia.org/wiki/Capitoline_Hill,title,exact,144901.0,Common
+Palazzo dei Conservatori,Rome,True,en,True,Capitoline Hill,https://en.wikipedia.org/wiki/Capitoline_Hill,title,exact,144901.0,Common
+Braccio Nuovo,Rome,False,en,True,Vatican Museums,https://en.wikipedia.org/wiki/Vatican_Museums,title,exact,229765.0,Rare
+Torre dei Capocci,Rome,False,en,True,Torre dei Capocci,https://en.wikipedia.org/wiki/Torre_dei_Capocci,title,exact,41044132.0,Rare
+Fontana dei Tritoni,Rome,True,en,True,Fountain of the Tritons,https://en.wikipedia.org/wiki/Fountain_of_the_Tritons,title,exact,39777858.0,Rare
+Museo Gregoriano Profano,Rome,False,en,True,Vatican Museums,https://en.wikipedia.org/wiki/Vatican_Museums,title,exact,229765.0,Epic
+Royal Baths Park,Warsaw,True,en,True,Łazienki Park,https://en.wikipedia.org/wiki/%C5%81azienki_Park,title,exact,2125158.0,Common
+Copernicus Science Centre,Warsaw,True,en,True,Copernicus Science Centre,https://en.wikipedia.org/wiki/Copernicus_Science_Centre,title,exact,21591042.0,Common
+The Royal Castle in Warsaw,Warsaw,True,en,True,"Royal Castle, Warsaw","https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw",title,exact,869411.0,Common
+Warsaw Uprising Museum,Warsaw,True,en,True,Warsaw Rising Museum,https://en.wikipedia.org/wiki/Warsaw_Rising_Museum,title,exact,2353975.0,Common
+National Museum in Warsaw,Warsaw,True,en,True,National Museum in Warsaw,https://en.wikipedia.org/wiki/National_Museum_in_Warsaw,title,exact,5465011.0,Common
+Palace on the Isle,Warsaw,True,en,True,Palace on the Isle,https://en.wikipedia.org/wiki/Palace_on_the_Isle,title,exact,7266816.0,Common
+POLIN Museum of the History of Polish Jews,Warsaw,True,en,True,POLIN Museum of the History of Polish Jews,https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews,title,exact,22063880.0,Common
+Tomb of the Unknown Soldier,Warsaw,True,en,True,Tomb of the Unknown Soldier,https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier,title,exact,67988.0,Common
+Warsaw Railway Museum,Warsaw,True,en,True,Warsaw Railway Museum,https://en.wikipedia.org/wiki/Warsaw_Railway_Museum,title,exact,16353956.0,Common
+Warsaw Uprising Monument,Warsaw,True,en,True,Warsaw Uprising Monument,https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument,title,exact,42254912.0,Common
+Museum of Warsaw,Warsaw,True,en,True,Museum of Warsaw,https://en.wikipedia.org/wiki/Museum_of_Warsaw,title,exact,28202955.0,Common
+Museum of Polish Military Technology,Warsaw,True,en,True,Museum of Polish Military Technology,https://en.wikipedia.org/wiki/Museum_of_Polish_Military_Technology,title,exact,28202997.0,Common
+Museum of Evolution,Warsaw,False,en,True,Knuthenborg Safaripark,https://en.wikipedia.org/wiki/Knuthenborg_Safaripark,title,exact,39486178.0,Common
+Neon Museum,Warsaw,True,en,True,Neon Museum,https://en.wikipedia.org/wiki/Neon_Museum,title,exact,3620906.0,Common
+Monument to the Ghetto Heroes,Warsaw,True,en,True,Monument to the Ghetto Heroes,https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes,title,exact,37841768.0,Common
+Royal Route,Warsaw,True,en,True,"Royal Route, Warsaw","https://en.wikipedia.org/wiki/Royal_Route,_Warsaw",title,exact,13301547.0,Rare
+Monument to the Heroes of Warsaw,Warsaw,True,en,True,Monument to the Heroes of Warsaw,https://en.wikipedia.org/wiki/Monument_to_the_Heroes_of_Warsaw,title,exact,41933470.0,Rare
+Monument to the Fallen and Murdered in the East,Warsaw,True,en,True,Monument to the Fallen and Murdered in the East,https://en.wikipedia.org/wiki/Monument_to_the_Fallen_and_Murdered_in_the_East,title,exact,42109634.0,Rare
